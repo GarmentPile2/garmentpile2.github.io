@@ -1,1 +1,1 @@
-# garmentpile2-review.github.io
+# garmentpile2.github.io
